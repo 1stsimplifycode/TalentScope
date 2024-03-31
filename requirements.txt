@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+nltk
+pdfminer.six
+base64
+sklearn
+spacy
+streamlit-tags
