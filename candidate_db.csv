@@ -1,0 +1,21 @@
+ID,Name,Age,Experience (Years),Skills,Education Level,Previous Role,Email
+1,Alice Johnson,29,5,"Python, SQL, Data Analysis",Master's,Data Analyst,alice.j@example.com
+2,Bob Smith,35,8,"JavaScript, React, Node.js",Bachelor's,Frontend Developer,bob.s@example.com
+3,Carol Martinez,42,15,"Project Management, Agile, Scrum",Master's,Project Manager,carol.m@example.com
+4,Dave Lee,38,10,"C++, Embedded Systems, IoT",PhD,Systems Engineer,dave.l@example.com
+5,Eva Green,30,6,"Graphic Design, Illustrator, Photoshop",Bachelor's,Graphic Designer,eva.g@example.com
+6,Frank Howard,28,4,"Cloud Computing, AWS, Docker",Bachelor's,DevOps Engineer,frank.h@example.com
+7,Grace Kim,32,7,"UI/UX Design, Sketch, Figma",Bachelor's,UI/UX Designer,grace.k@example.com
+8,Henry Foster,45,20,"Leadership, Business Development, Negotiation",MBA,Director of Sales,henry.f@example.com
+9,Irene Choi,27,3,"Machine Learning, TensorFlow, PyTorch",PhD,Data Scientist,irene.c@example.com
+10,Jack Turner,33,9,"Digital Marketing, SEO, SEM",Master's,Marketing Manager,jack.t@example.com
+11,Kelly Brown,31,7,"Cybersecurity, Ethical Hacking, Network Security",Bachelor's,Security Analyst,kelly.b@example.com
+12,Liam Neeson,40,12,"Acting, Drama, Stage Performance",Diploma,Actor,liam.n@example.com
+13,Mona Sax,26,2,"Game Development, Unity, C#",Bachelor's,Game Developer,mona.s@example.com
+14,Nathan Drake,34,11,"Exploration, Treasure Hunting, Survival Skills",High School,Adventurer,nathan.d@example.com
+15,Olivia Wilde,28,4,"Acting, Modelling, Brand Endorsements",Bachelor's,Actress,olivia.w@example.com
+16,Peter Parker,29,6,"Photography, Journalism, Editing",Bachelor's,Photographer,peter.p@example.com
+17,Quinn Fabray,36,8,"Singing, Music Composition, Piano",Bachelor's,Musician,quinn.f@example.com
+18,Rachel Green,37,9,"Fashion Design, Styling, Branding",Bachelor's,Fashion Designer,rachel.g@example.com
+19,Steve Rogers,39,13,"Military Strategy, Leadership, Combat Training",Military Academy,Soldier,steve.r@example.com
+20,Tony Stark,41,15,"Inventing, Entrepreneurship, Iron Man Suit Design",PhD,CEO,tony.s@example.com
